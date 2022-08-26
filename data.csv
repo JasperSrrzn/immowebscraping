@@ -1,0 +1,9 @@
+price,construction year,building condition,street frontage width (m),number of frontages,living area (m²),bedrooms,bathrooms,kitchen surface (m²),toilets,basement,attic,primary energy consumption (kwh/m²),energy class,heating type,surface of the plot (m²),address,date
+750000,1957,just renovated,,4,350,5,4,16,4,yes,,229,c,gas,1996,Oudenaardsesteenweg 543 8580 — Avelgem,2022-08-26
+795000,2000,good,,4,245,4,1,21,2,yes,,231,c,gas,763,Bosstraat 32 8790 — Waregem,2022-08-26
+329000,1963,to renovate,,4,180,3,1,10,1,yes,,546,f,fuel oil,988,Brugstraat 10 8581 — Kerkhove,2022-08-26
+135000,1932,to renovate,63,2,168,3,1,,1,yes,yes,378,d,gas,311,Tiendemeersstraat 52 8531 — Harelbeke Bavikhove,2022-08-26
+435000,1995,good,187,4,215,4,2,18,2,yes,yes,491,e,electric,910,Goudenregenlaan 11 8793 — Waregem Sint-Eloois-Vijve,2022-08-26
+156000,1930,good,,2,125,2,1,12,1,yes,,287,c,gas,142,Forestiersstraat 10 8530 — Harelbeke,2022-08-26
+105000,1934,good,5,2,105,2,1,,1,,,537,f,,69,Kongresstraat 27 8930 — Menen,2022-08-26
+345000,1972,just renovated,,,165,3,1,,2,,,not specified,not specified,gas,260,Klokketuin 26 8570 — Anzegem,2022-08-26
